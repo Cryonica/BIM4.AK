@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BIM4.AK</Text>
+    <Description>Some description for BIM4.AK</Description>
+    <Assembly>BIM4.AK.dll</Assembly>
+    <FullClassName>BIM4.AK.Command</FullClassName>
+    <ClientId>8261e658-0696-4c33-93ce-4393eb1ca411</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application BIM4.AK</Name>
+    <Assembly>BIM4.AK.dll</Assembly>
+    <FullClassName>BIM4.AK.App</FullClassName>
+    <ClientId>0925d838-1218-4604-a37d-558b77a941ae</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

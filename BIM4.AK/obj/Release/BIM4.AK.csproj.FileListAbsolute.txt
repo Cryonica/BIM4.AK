@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\bin\Release\4BIM.dll
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\BIM4.AK.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\BIM4.AK.Properties.Resources.resources
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\BIM4.AK.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\BIM4.AK.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\BIM4.AK.csproj.CopyComplete
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\bin\Release\4BIM.AK.dll
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\bin\Release\4BIM.AK.pdb
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\4BIM.AK.dll
+C:\Users\user\source\repos\BIM4.AK\BIM4.AK\obj\Release\4BIM.AK.pdb
